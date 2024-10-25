@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: akhidreams
+Build-Jdk: 17.0.11
+Main-Class: com.document.Main.Main
+Created-By: Maven Integration for Eclipse
+
